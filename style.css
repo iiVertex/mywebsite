@@ -1,0 +1,10 @@
+body {
+    background-color: blue;
+    color: #fff;
+    font-size: 20px;
+}
+.container {
+    overflow: hidden;
+    width: 80%;
+    margin: auto;
+}
